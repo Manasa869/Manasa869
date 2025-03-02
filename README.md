@@ -39,9 +39,8 @@ This is a Basic Health Chatbot built using Python. It provides simple health-rel
 
 ## 🤝 Let’s Connect
 
-- [LinkedIn](your-linkedin-profile-link)
-- [Twitter](your-twitter-profile-link)
-- [Email](your-email-link)
+- [LinkedIn](https://www.linkedin.com/in/manasa-reddy-26370228a/)
+- [Email]( reddymanasa869@gmail.com)
 
 Feel free to reach out if you'd like to collaborate or chat about tech!
 
