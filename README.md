@@ -55,7 +55,7 @@ A fully responsive and modern marketing landing page designed for product campai
 - Clean and attractive UI/UX  
 - Built with HTML, CSS, and JavaScript  
 - Perfect for showcasing products and campaigns
-- 
+  
 ## 📚 Learning & Goals
 
 - Currently diving deeper into Data Science & Machine Learning with Python.
