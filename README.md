@@ -31,6 +31,31 @@ This is a Basic Health Chatbot built using Python. It provides simple health-rel
 📌 User-friendly interactive chat interface
 📌 Basic symptom-based health advice
 📌 Built using Python with simple rule-based logic or NLP
+
+### 3. 📢 Ad Campaign Optimizer  
+[🔗 GitHub Repository](https://github.com/Manasa869/Ad-Campaign-Optimizer-)  
+
+This project analyzes advertising campaign data to optimize performance. It uses data-driven techniques to help marketers identify the best-performing campaigns, allocate budgets more effectively, and maximize ROI.  
+
+📌 Key Features:  
+- Campaign performance analysis  
+- Identification of high & low ROI campaigns  
+- Visual insights for decision-making  
+- Built using Python and Data Science techniques  
+
+---
+
+### 4. 🌐 Responsive Marketing Landing Page for Product Campaign  
+[🔗 GitHub Repository](https://github.com/Manasa869/Responsive-Marketing-Landing-Page-for-Product-Campaign)  
+
+A fully responsive and modern marketing landing page designed for product campaigns. The project focuses on front-end design and user engagement through clean UI and responsive layouts.  
+
+📌 Key Features:  
+- Responsive design for all devices  
+- Clean and attractive UI/UX  
+- Built with HTML, CSS, and JavaScript  
+- Perfect for showcasing products and campaigns
+- 
 ## 📚 Learning & Goals
 
 - Currently diving deeper into Data Science & Machine Learning with Python.
